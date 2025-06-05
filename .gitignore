@@ -1,0 +1,27 @@
+# Diretórios de build
+build/
+dist/
+
+# Arquivos de cache do NetBeans
+nbproject/private/
+.nb-gradle/
+.nbbuildinfo
+.nbproject/
+
+# Arquivos temporários e de log
+*.log
+*.class
+*.war
+*.jar
+*.iml
+*.swp
+
+# Diretórios do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos do VS Code (caso alterne IDEs)
+.vscode/
+
+# Pasta de deploy manual, se houver
+out/
